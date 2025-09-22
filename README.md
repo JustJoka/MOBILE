@@ -6,4 +6,5 @@ Histórico das minhas aulas de programação mobile
 2 • Projeto mobile: Uma calculadora de índice de massa corporal(IMC).<br>
 3 • Exportando o arquivo styles. <br>
 4 • Importando funções Default e não Default. <br>
-5 • Atribuindo valores de variaveis no texto <br>
+5 • Atribuindo valores de variaveis no texto. <br>
+6 • Projeto mobile: Uma tela de login simples. <br>
